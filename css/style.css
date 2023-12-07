@@ -1,0 +1,295 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*** nav start ******/
+.nav-link{
+    color: #000;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    border-left: 10px solid #fff;
+    border-right: 10px solid #fff;
+    transition: 0.5s;
+}
+.nav-link:hover{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+.one1{
+    color: #ffffff;
+    background-color: #000;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s;
+    border-left: 10px solid #fff;
+    border-right: 10px solid #fff;
+}
+.one1:hover{
+    background-color: blueviolet;
+}
+/****** header start *****/
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../picture/3840x2160-anime-phone-hd-amazing-mac-desktop-background-wallpaper-of-iphone-1fjoy2o323hcikv5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.header .col-md-6 img{
+    width: 80%;
+    height: 1;
+
+}
+.header .container .btn1{
+    width: 130px;
+    height: 47px;
+    border: none;
+    background-color: blueviolet;
+    color: #fff;
+    transition: 0.5s;
+}
+.header .container .btn1:hover{
+    background-color: #000;
+}
+.header .container .btn2{
+    width: 130px;
+    height: 47px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    transition: 0.5s;
+    margin-left: 20px;
+}
+.header .container .btn2:hover{
+    background-color: blueviolet;
+}
+/**** content ********/
+.service .contect{
+    height: 320px;
+    justify-content: space-between;
+}
+.service .contect .one{
+    width: 32%;
+    height: 320px;
+    padding-top: 70px;
+    text-align: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+}
+.service .contect .two{
+    width: 32%;
+    height: 320px;
+    padding-top: 70px;
+    text-align: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+}
+.service .contect .three{
+    width: 32%;
+    height: 320px;
+    padding-top: 70px;
+    text-align: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+}
+
+
+
+
+.service .put{
+    height: 350px;
+    justify-content: space-between;
+}
+.content1{
+    width: 32%;
+    height: 350px;
+    border-radius: 30px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    padding: 20px;
+}
+.img-one{
+    width: 100%;
+    height: 80%;
+    border-radius: 30px;
+    background-image: url("../picture/wp11175415.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content2{
+    width: 32%;
+    height: 350px;
+    border-radius: 30px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    padding: 20px;
+}
+.img-two{
+    width: 100%;
+    height: 80%;
+    border-radius: 30px;
+    background-image: url("../picture/desktop-wallpaper-cool-anime-top-best-of-cool-anime-really-cool-anime.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content3{
+    width: 32%;
+    height: 350px;
+    border-radius: 30px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    padding: 20px;
+}
+.img-three{
+    width: 100%;
+    height: 80%;
+    border-radius: 30px;
+    background-image: url("../picture/desktop-wallpaper-artstation-anime-profile-pic-thumbnail.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.service .fontAwesome{
+    height: 220px;
+    justify-content: space-between;
+}
+.service .fontAwesome h3{
+    margin-left: 11px;
+}
+.box-one1{
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    height: 220px;
+    width: 32%;
+    border-radius: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.zip1{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 16%;
+}
+.wind{
+    height: 100px;
+    width: 100px;
+    background-image: url("../picture/Top-5-Anime-Characters-with-White-hair-2023-Ranked-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+.box-two1{
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    height: 220px;
+    width: 32%;
+    border-radius: 30px;
+    padding: 20px;
+}
+.zip2{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 16%;
+}
+.wind3{
+    height: 100px;
+    width: 100px;
+    background-image: url("../picture/boy-anime-wallpaper-image-for-profile-pic-74.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+.box-three1{
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    height: 220px;
+    width: 32%;
+    border-radius: 30px;
+    padding: 20px;
+}
+.zip3{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 16%;
+}
+.wind-oneq{
+    height: 100px;
+    width: 100px;
+    background-image: url("../picture/4a922e859160c990f67814bad156f89f.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+/********* form section ************/
+.form{
+    height: 700px;
+}
+.form .row{
+    justify-content: space-between;
+}
+.app1{
+    width: 30%;
+    height: 600px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    padding: 50px;
+    border-radius: 20px;
+}
+.image{
+    width: 100%;
+    height: 200px;
+    background-image: url("../picture/unnamed.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.app2{
+    width: 68%;
+    height: 600px;
+    box-shadow: 0 0 4px 4px #e9e9e9;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+
+/**** footer section ****/
+.sub{
+    height: 200px;
+    background-color: #e2e2e2;
+    text-align: center;
+}
+.sub p{
+    font-size: 1.5rem;
+    color: #8a2be2;
+}
+.sub .icon-img{
+    width: 37%;
+    padding: 0 50px 0 50px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.sub .icon-img .face{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: none;
+    box-shadow: 2px 2px 2px 2px #a6a6a6;
+}
